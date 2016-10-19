@@ -1,0 +1,17 @@
+{
+  "name": "edusnap-development",
+  "description": "Bleeding edge development conceptualization server",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "mongolab",
+    "redistogo"
+  ],
+  "buildpacks": [
+
+  ]
+}
